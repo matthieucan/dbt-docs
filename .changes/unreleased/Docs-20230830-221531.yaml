@@ -1,0 +1,6 @@
+kind: Docs
+body: Add mermaid diagrams rendering in docs
+time: 2023-08-30T22:15:31.660125877Z
+custom:
+  Author: matthieucan
+  Issue: "338"
